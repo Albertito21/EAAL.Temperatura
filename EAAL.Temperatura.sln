@@ -5,6 +5,10 @@ VisualStudioVersion = 17.10.35027.167
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EAAL.Temperatura", "EAAL.Temperatura\EAAL.Temperatura.csproj", "{87233740-1C27-47AC-8EAD-6C0727B1EDEF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EAAL.Temperatura.UnitTestMSTest", "EAAL.Temperatura.UnitTestMSTest\EAAL.Temperatura.UnitTestMSTest.csproj", "{53B7D320-DE45-4717-9F49-405FA34455DD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EAAL.Temperatura.UnitTest.xUnit", "EAAL.Temperatura.UnitTest.xUnit\EAAL.Temperatura.UnitTest.xUnit.csproj", "{C5B940CA-921D-4E64-A7F1-5941E296ADB1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{87233740-1C27-47AC-8EAD-6C0727B1EDEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{87233740-1C27-47AC-8EAD-6C0727B1EDEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{87233740-1C27-47AC-8EAD-6C0727B1EDEF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53B7D320-DE45-4717-9F49-405FA34455DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53B7D320-DE45-4717-9F49-405FA34455DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53B7D320-DE45-4717-9F49-405FA34455DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53B7D320-DE45-4717-9F49-405FA34455DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5B940CA-921D-4E64-A7F1-5941E296ADB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5B940CA-921D-4E64-A7F1-5941E296ADB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5B940CA-921D-4E64-A7F1-5941E296ADB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5B940CA-921D-4E64-A7F1-5941E296ADB1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
